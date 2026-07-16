@@ -1,1 +1,1 @@
-
+const element=document.getElementById("h1");
